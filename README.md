@@ -59,7 +59,8 @@ Explore Menu
 
 <p>
 
-A premium destination where every cup of tea is served with warmth, quality and unforgettable taste.
+A premium destination where every cup of tea is served with warmth, quality and unforgettable taste
+file_00000000d914820b9af75c69c1e78a44.png
 
 </p>
 
