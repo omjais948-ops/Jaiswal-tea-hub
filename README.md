@@ -55,12 +55,11 @@ Explore Menu
 
 <section class="about">
 
-<h2>Welcome to Jaiswal Ji Tea Hub</h2>
+<h2>Welcome to Jaiswal Ji Tea Hub</h2> color:#C9A227
 
 <p>
 
 A premium destination where every cup of tea is served with warmth, quality and unforgettable taste
-file_00000000d914820b9af75c69c1e78a44.png
 
 </p>
 
