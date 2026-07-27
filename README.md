@@ -53,9 +53,9 @@ Explore Menu
 
 </header>
 
-<section class="about">
+<section class="about">color:#C9A227
 
-<h2>Welcome to Jaiswal Ji Tea Hub</h2> color:#C9A227
+<h2>Welcome to Jaiswal Ji Tea Hub</h2> 
 
 <p>
 
