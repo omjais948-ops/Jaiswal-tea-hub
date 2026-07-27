@@ -4,11 +4,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <h1 style="font-size:100px; color:#8B5E3C; text-align:center;">
-👑☕ JAISWAL JI TEA HUB ☕👑
+ JAISWAL JI TEA HUB ☕💥
 </h1>
 
 <h2 style="font-size:35px; color:#666; text-align:center;">
-🌿 Premium Tea • Great Vibes • Every Sip Feels Like Home 🌿
+ Premium Tea • Great Vibes • Every Sip Feels Like Home 🍃
 </h2>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -59,7 +59,7 @@ Explore Menu
 
 <p>
 
-A premium destination where every cup of tea is served with warmth, quality and unforgettable taste
+A premium destination where every cup of tea is served with warmth, quality and unforgettable taste 😉
 
 </p>
 
@@ -132,5 +132,6 @@ A premium destination where every cup of tea is served with warmth, quality and 
 
 © 2026 Jaiswal Ji Tea Hub
 
-
+The other owner is Om jaiswal insta id was 
+    https://www.instagram.com/omxen_.x?igsh=N3BxMW05NHI2NTVu
     
