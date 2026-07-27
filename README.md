@@ -3,11 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<h1 style="font-size:100px; color:#8B5E3C; text-align:center;">
+<h1 style="font-size:100px;colur: #89 ; text-align:center;">
  JAISWAL JI TEA HUB ☕💥
 </h1>
 
-<h2 style="font-size:35px; color:#666; text-align:center;">
+<h2 style="font-size:35px; color:#66; text-align:center;">
  Premium Tea • Great Vibes • Every Sip Feels Like Home 🍃
 </h2>
 
